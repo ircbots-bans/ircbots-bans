@@ -8,6 +8,7 @@ ext_banmask | \*!\*@\*.bc.googleusercontent.com#\*bot\* | [Cloud9](https://c9.io
 realname | GitHub?IRCBot\* | GitHub service: IRC
 realname | Notifico!\* | Notifico service: http://n.tkte.ch/
 realname | EzzyBot\* | Ezzybot instances: https://github.com/Azure-Developments/ezzybot
+realname | Sopel\* | http://sopel.chat
 account | Doger | Doger IRC tipbot: https://github.com/mniip/Doger
 account | AegisServer\*
 account | Andromeda
