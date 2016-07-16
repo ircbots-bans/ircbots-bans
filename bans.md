@@ -10,6 +10,7 @@ ext_banmask | \*!\*@\*.bc.googleusercontent.com#\*bot\* | [Cloud9](https://c9.io
 realname | GitHub?IRCBot\* | GitHub notification service: IRC
 realname | Notifico!\* | Notifico service: http://n.tkte.ch/
 realname | EzzyBot\* | Ezzybot instances: https://github.com/Azure-Developments/ezzybot
+realname | zIRC\* | zIRC instances: https://github.com/itslukej/zirc
 realname | Sopel\* | http://sopel.chat
 account | Doger | Doger IRC tipbot: https://github.com/mniip/Doger
 account | AegisServer\* | Channel management bot. **Not cloaked** | Owner: **Bowserinator**
