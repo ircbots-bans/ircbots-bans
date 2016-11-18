@@ -18,4 +18,3 @@ account | Andromeda | Channel management bot. **Not cloaked** | Owner: **BWBella
 account | StewieGriffin\* | **Not cloaked** | Used in ##powder-bots
 chan link | ##proxadbots | List of zombie computers that run in the french ISP Free/Proxad | Third party managed channel
 chan link | ##botmonitoring-bots |  | Third party managed channel
-realname | testing1234567890!"£$%^&*( | | Testing Webhook
